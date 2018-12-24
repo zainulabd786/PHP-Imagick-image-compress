@@ -1,3 +1,4 @@
+<?php
 /**
  * Resizes and crops image to fit provided $width and $height.
  *
